@@ -7,7 +7,7 @@ Atualmente estou buscando meu primeiro trabalho na área. Com sede de conhecimen
 
 ### Projetos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroedu9&repo=pedroedu9.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pedroedu9.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Aqui são as linguagens que estou estudando no momento utilizando ![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) :
 
