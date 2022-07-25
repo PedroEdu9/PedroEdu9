@@ -1,7 +1,5 @@
 #  Olá 👋
 
-## Biografia
-
 Meu nome é Pedro Eduardo e tenho 21 anos. Sou Formado em Análise e desenvolvimento de Sistemas pela FATEC de Presidente Prudente.
 Atualmente estou buscando meu primeiro trabalho na área. Com sede de conhecimento para aprender o que há de novo em tecnologia.
 
