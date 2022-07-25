@@ -7,6 +7,8 @@ Atualmente estou buscando meu primeiro trabalho na área. Com sede de conhecimen
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pedroedu9.github.io)](https://github.com/PedroEdu9/PedroEdu9.github.io))
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pokedexJS)](https://github.com/PedroEdu9/pokedexJS))
+
 
 
 ### Aqui são as linguagens que estou estudando no momento utilizando ![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) :
