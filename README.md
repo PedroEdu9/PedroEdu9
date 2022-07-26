@@ -1,8 +1,5 @@
 #  Olá 👋
 
-Meu nome é Pedro Eduardo e tenho 21 anos. Sou Formado em Análise e desenvolvimento de Sistemas pela FATEC de Presidente Prudente.
-Atualmente estou buscando meu primeiro trabalho na área. Com sede de conhecimento para aprender o que há de novo em tecnologia.
-
 ### Projetos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pedroedu9.github.io)](https://github.com/PedroEdu9/PedroEdu9.github.io))
