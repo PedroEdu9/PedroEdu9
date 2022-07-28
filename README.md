@@ -3,7 +3,6 @@
 ### Projetos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pedroedu9.github.io)](https://github.com/PedroEdu9/PedroEdu9.github.io)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroEdu9&repo=pokedexJS)](https://github.com/PedroEdu9/pokedexJS)
 
 
